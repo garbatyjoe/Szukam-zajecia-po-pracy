@@ -1,1 +1,4 @@
 Czym jest git? - to system kontroli wersji, pomaga śledzić zmiany wprowadzane w kodzie oraz szybko przywrócić wersję przed wprowadzeniem zmian - która mogła wybuchnąć serwer.
+
+Czym jest MR? to Merge request, wkorzystywany w sytuacjach gdy chcemy zmienić wersję obrazu Np Metabase w obrazie dockera i docelowo wprowadzenia tej zmiany na PROD'a
+Aczkolwiek MR korzytsa z Branchy - po polsku, gałęzie, tworzy się je gdy wprowadzamy tego typu zmiany, 
