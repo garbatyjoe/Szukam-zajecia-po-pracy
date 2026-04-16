@@ -1,2 +1,6 @@
-git status- sprawdza czy kod który jest lokalnie na kompie, jest up to date z tym co jest w głównym repo
+git status- pokazuje tylko to, co dzieje się u Ciebie na dysku, jakie zmiany wprowadziłeś
 git checkout -b nazwa_galezi ->  jak się ma więcej niż 2 szare komurki to można z tego zrozumieć że komenda odpowiada za coś związanego z utworzeniem gałęzi 
+okej a jak utworzyłem brancha i chce go wysłac do git'a żeby tam też się utworzył?
+aby wypchnąć nowo utworzonego brancha na serwer, musisz skopiować dokładnie to, co podpowiedział Ci terminal. Wpisz po prostu:
+
+git push --set-upstream origin komendy-git
