@@ -3,4 +3,4 @@ git checkout -b nazwa_galezi ->  jak się ma więcej niż 2 szare komurki to mo�
 okej a jak utworzyłem brancha i chce go wysłac do git'a żeby tam też się utworzył?
 aby wypchnąć nowo utworzonego brancha na serwer, musisz skopiować dokładnie to, co podpowiedział Ci terminal. Wpisz po prostu:
 
-git push --set-upstream origin komendy-git
+git push --set-upstream origin komendy-git   lub    git push -u origin nazwa_galazki
