@@ -1,0 +1,2 @@
+git status- sprawdza czy kod który jest lokalnie na kompie, jest up to date z tym co jest w głównym repo
+git checkout -b nazwa_galezi ->  jak się ma więcej niż 2 szare komurki to można z tego zrozumieć że komenda odpowiada za coś związanego z utworzeniem gałęzi 
