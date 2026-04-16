@@ -1,0 +1,1 @@
+Czym jest git? - to system kontroli wersji, pomaga śledzić zmiany wprowadzane w kodzie oraz szybko przywrócić wersję przed wprowadzeniem zmian - która mogła wybuchnąć serwer.
