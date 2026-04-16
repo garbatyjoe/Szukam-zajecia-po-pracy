@@ -4,3 +4,4 @@ okej a jak utworzyłem brancha i chce go wysłac do git'a żeby tam też się ut
 aby wypchnąć nowo utworzonego brancha na serwer, musisz skopiować dokładnie to, co podpowiedział Ci terminal. Wpisz po prostu:
 
 git push --set-upstream origin komendy-git   lub    git push -u origin nazwa_galazki
+bardzo przydatna jest również fetch
